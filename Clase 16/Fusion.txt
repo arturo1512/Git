@@ -1,6 +1,3 @@
-t para cambiar de rama o commit puedes perder el trabajo que no hayas guardado. Guarda tus cambios antes de hacer git checkout.
-<<<<<<< HEAD
+    t para cambiar de rama o commit puedes perder el trabajo que no hayas guardado. Guarda tus cambios antes de hacer git checkout.
 cambio en branch cabezera.
-=======
 Aqui aplique los cambios en la branch cabecera
->>>>>>> cabecera
