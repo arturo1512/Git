@@ -1,1 +1,2 @@
 si logre hacer funcionar la SSH de Git
+en teoria ya cambio
