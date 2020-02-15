@@ -1,2 +1,3 @@
 si logre hacer funcionar la SSH de Git
-en teoria ya cambiod
+en teoria ya cambio
+o es verdad
