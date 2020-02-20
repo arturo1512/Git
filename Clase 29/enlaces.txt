@@ -1,0 +1,8 @@
+Curso Básico de Jenkins
+https://platzi.com/cursos/jenkins-basico/
+Administración de Servidores y DevOps
+https://platzi.com/servidores/
+Curso de DevOps con GitLab
+https://platzi.com/cursos/gitlab/
+Curso de Digital Ocean
+https://platzi.com/cursos/digital-ocean/

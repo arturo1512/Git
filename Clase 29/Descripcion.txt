@@ -1,0 +1,6 @@
+Haciendo deployment a un servidor
+En esta clase veremos como hacer deploy de nuestra aplicación utilizando un servidor.
+
+No te preocupes si no has comprado un servidor no es necesario, puedes instalar un servidor local en tu computadora para realizar pruebas y testear tu aplicación.
+
+En Platzi tenemos una carrera de servidores que te va a ayudar a automatizar mucho más estas tareas en platzi.com/servidores
